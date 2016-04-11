@@ -1,0 +1,7 @@
+d:\Users\user\Desktop\C#\Exrecise 2\B16 Ex02 Shahaf 301370219 Naor 302620372\B16_Ex02\bin\Debug\B16_Ex02.exe.config
+d:\Users\user\Desktop\C#\Exrecise 2\B16 Ex02 Shahaf 301370219 Naor 302620372\B16_Ex02\bin\Debug\B16_Ex02.exe
+d:\Users\user\Desktop\C#\Exrecise 2\B16 Ex02 Shahaf 301370219 Naor 302620372\B16_Ex02\bin\Debug\B16_Ex02.pdb
+d:\Users\user\Desktop\C#\Exrecise 2\B16 Ex02 Shahaf 301370219 Naor 302620372\B16_Ex02\bin\Debug\Ex02.ConsoleUtils.dll
+d:\Users\user\Desktop\C#\Exrecise 2\B16 Ex02 Shahaf 301370219 Naor 302620372\B16_Ex02\obj\Debug\B16_Ex02.csprojResolveAssemblyReference.cache
+d:\Users\user\Desktop\C#\Exrecise 2\B16 Ex02 Shahaf 301370219 Naor 302620372\B16_Ex02\obj\Debug\B16_Ex02.exe
+d:\Users\user\Desktop\C#\Exrecise 2\B16 Ex02 Shahaf 301370219 Naor 302620372\B16_Ex02\obj\Debug\B16_Ex02.pdb
